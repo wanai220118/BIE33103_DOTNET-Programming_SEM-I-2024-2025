@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wanad\\OneDrive\\Desktop\\GitHub\\BIE33103_DOTNET-Programming_SEM-I-2024-2025\\LAB_2\\CalculateRectangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B366764-80C2-4957-8426-44829F698291}|CalculateRectangle\\CalculateRectangle.csproj|c:\\users\\wanad\\onedrive\\desktop\\github\\bie33103_dotnet-programming_sem-i-2024-2025\\lab_2\\calculaterectangle\\calculaterectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B366764-80C2-4957-8426-44829F698291}|CalculateRectangle\\CalculateRectangle.csproj|solutionrelative:calculaterectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wanad\\OneDrive\\Desktop\\GitHub\\BIE33103_DOTNET-Programming_SEM-I-2024-2025\\LAB_2\\CalculateRectangle\\CalculateRectangle\\Program.cs",
+              "RelativeDocumentMoniker": "CalculateRectangle\\Program.cs",
+              "ToolTip": "C:\\Users\\wanad\\OneDrive\\Desktop\\GitHub\\BIE33103_DOTNET-Programming_SEM-I-2024-2025\\LAB_2\\CalculateRectangle\\CalculateRectangle\\Program.cs",
+              "RelativeToolTip": "CalculateRectangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T21:39:26.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

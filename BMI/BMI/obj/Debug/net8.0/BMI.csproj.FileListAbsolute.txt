@@ -1,0 +1,15 @@
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\BMI\BMI\bin\Debug\net8.0\BMI.exe
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\BMI\BMI\bin\Debug\net8.0\BMI.deps.json
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\BMI\BMI\bin\Debug\net8.0\BMI.runtimeconfig.json
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\BMI\BMI\bin\Debug\net8.0\BMI.dll
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\BMI\BMI\bin\Debug\net8.0\BMI.pdb
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\BMI\BMI\obj\Debug\net8.0\BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\BMI\BMI\obj\Debug\net8.0\BMI.AssemblyInfoInputs.cache
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\BMI\BMI\obj\Debug\net8.0\BMI.AssemblyInfo.cs
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\BMI\BMI\obj\Debug\net8.0\BMI.csproj.CoreCompileInputs.cache
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\BMI\BMI\obj\Debug\net8.0\BMI.sourcelink.json
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\BMI\BMI\obj\Debug\net8.0\BMI.dll
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\BMI\BMI\obj\Debug\net8.0\refint\BMI.dll
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\BMI\BMI\obj\Debug\net8.0\BMI.pdb
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\BMI\BMI\obj\Debug\net8.0\BMI.genruntimeconfig.cache
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\BMI\BMI\obj\Debug\net8.0\ref\BMI.dll

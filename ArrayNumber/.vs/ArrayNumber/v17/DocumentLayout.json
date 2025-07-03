@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wanad\\OneDrive\\Desktop\\GitHub\\BIE33103_DOTNET-Programming_SEM-I-2024-2025\\LAB_2\\ArrayNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1F7A0E-B86D-4124-A235-EFE2F3F741CC}|ArrayNumber\\ArrayNumber.csproj|c:\\users\\wanad\\onedrive\\desktop\\github\\bie33103_dotnet-programming_sem-i-2024-2025\\lab_2\\arraynumber\\arraynumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1F7A0E-B86D-4124-A235-EFE2F3F741CC}|ArrayNumber\\ArrayNumber.csproj|solutionrelative:arraynumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wanad\\OneDrive\\Desktop\\GitHub\\BIE33103_DOTNET-Programming_SEM-I-2024-2025\\LAB_2\\ArrayNumber\\ArrayNumber\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\wanad\\OneDrive\\Desktop\\GitHub\\BIE33103_DOTNET-Programming_SEM-I-2024-2025\\LAB_2\\ArrayNumber\\ArrayNumber\\Program.cs",
+              "RelativeToolTip": "ArrayNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T21:40:55.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

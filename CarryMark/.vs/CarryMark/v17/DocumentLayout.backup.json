@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wanad\\OneDrive\\Desktop\\GitHub\\BIE33103_DOTNET-Programming_SEM-I-2024-2025\\LAB_2\\CarryMark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B01656D-2374-4323-8B35-40E79BC205E8}|CarryMark\\CarryMark.csproj|c:\\users\\wanad\\onedrive\\desktop\\github\\bie33103_dotnet-programming_sem-i-2024-2025\\lab_2\\carrymark\\carrymark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B01656D-2374-4323-8B35-40E79BC205E8}|CarryMark\\CarryMark.csproj|solutionrelative:carrymark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wanad\\OneDrive\\Desktop\\GitHub\\BIE33103_DOTNET-Programming_SEM-I-2024-2025\\LAB_2\\CarryMark\\CarryMark\\Program.cs",
+              "RelativeDocumentMoniker": "CarryMark\\Program.cs",
+              "ToolTip": "C:\\Users\\wanad\\OneDrive\\Desktop\\GitHub\\BIE33103_DOTNET-Programming_SEM-I-2024-2025\\LAB_2\\CarryMark\\CarryMark\\Program.cs",
+              "RelativeToolTip": "CarryMark\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T21:44:21.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

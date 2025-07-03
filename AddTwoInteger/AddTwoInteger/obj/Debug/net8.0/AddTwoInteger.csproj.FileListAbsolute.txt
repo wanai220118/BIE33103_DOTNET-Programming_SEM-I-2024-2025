@@ -1,0 +1,15 @@
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\AddTwoInteger\AddTwoInteger\bin\Debug\net8.0\AddTwoInteger.exe
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\AddTwoInteger\AddTwoInteger\bin\Debug\net8.0\AddTwoInteger.deps.json
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\AddTwoInteger\AddTwoInteger\bin\Debug\net8.0\AddTwoInteger.runtimeconfig.json
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\AddTwoInteger\AddTwoInteger\bin\Debug\net8.0\AddTwoInteger.dll
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\AddTwoInteger\AddTwoInteger\bin\Debug\net8.0\AddTwoInteger.pdb
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\AddTwoInteger\AddTwoInteger\obj\Debug\net8.0\AddTwoInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\AddTwoInteger\AddTwoInteger\obj\Debug\net8.0\AddTwoInteger.AssemblyInfoInputs.cache
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\AddTwoInteger\AddTwoInteger\obj\Debug\net8.0\AddTwoInteger.AssemblyInfo.cs
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\AddTwoInteger\AddTwoInteger\obj\Debug\net8.0\AddTwoInteger.csproj.CoreCompileInputs.cache
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\AddTwoInteger\AddTwoInteger\obj\Debug\net8.0\AddTwoInteger.sourcelink.json
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\AddTwoInteger\AddTwoInteger\obj\Debug\net8.0\AddTwoInteger.dll
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\AddTwoInteger\AddTwoInteger\obj\Debug\net8.0\refint\AddTwoInteger.dll
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\AddTwoInteger\AddTwoInteger\obj\Debug\net8.0\AddTwoInteger.pdb
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\AddTwoInteger\AddTwoInteger\obj\Debug\net8.0\AddTwoInteger.genruntimeconfig.cache
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\AddTwoInteger\AddTwoInteger\obj\Debug\net8.0\ref\AddTwoInteger.dll

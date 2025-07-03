@@ -1,0 +1,15 @@
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\GenerateSumNumber\GenerateSumNumber\bin\Debug\net8.0\GenerateSumNumber.exe
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\GenerateSumNumber\GenerateSumNumber\bin\Debug\net8.0\GenerateSumNumber.deps.json
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\GenerateSumNumber\GenerateSumNumber\bin\Debug\net8.0\GenerateSumNumber.runtimeconfig.json
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\GenerateSumNumber\GenerateSumNumber\bin\Debug\net8.0\GenerateSumNumber.dll
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\GenerateSumNumber\GenerateSumNumber\bin\Debug\net8.0\GenerateSumNumber.pdb
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\GenerateSumNumber\GenerateSumNumber\obj\Debug\net8.0\GenerateSumNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\GenerateSumNumber\GenerateSumNumber\obj\Debug\net8.0\GenerateSumNumber.AssemblyInfoInputs.cache
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\GenerateSumNumber\GenerateSumNumber\obj\Debug\net8.0\GenerateSumNumber.AssemblyInfo.cs
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\GenerateSumNumber\GenerateSumNumber\obj\Debug\net8.0\GenerateSumNumber.csproj.CoreCompileInputs.cache
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\GenerateSumNumber\GenerateSumNumber\obj\Debug\net8.0\GenerateSumNumber.sourcelink.json
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\GenerateSumNumber\GenerateSumNumber\obj\Debug\net8.0\GenerateSumNumber.dll
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\GenerateSumNumber\GenerateSumNumber\obj\Debug\net8.0\refint\GenerateSumNumber.dll
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\GenerateSumNumber\GenerateSumNumber\obj\Debug\net8.0\GenerateSumNumber.pdb
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\GenerateSumNumber\GenerateSumNumber\obj\Debug\net8.0\GenerateSumNumber.genruntimeconfig.cache
+C:\Users\wanad\OneDrive\Desktop\GitHub\BIE33103_DOTNET-Programming_SEM-I-2024-2025\LAB_2\GenerateSumNumber\GenerateSumNumber\obj\Debug\net8.0\ref\GenerateSumNumber.dll
