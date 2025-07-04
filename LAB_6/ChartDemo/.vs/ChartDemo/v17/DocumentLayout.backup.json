@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wanad\\OneDrive\\Desktop\\GitHub\\BIE33103_DOTNET-Programming_SEM-I-2024-2025\\LAB_3\\ChartDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41417947-BD0F-40B1-AF55-1AB4887631CE}|ChartDemo\\ChartDemo.csproj|c:\\users\\wanad\\onedrive\\desktop\\github\\bie33103_dotnet-programming_sem-i-2024-2025\\lab_3\\chartdemo\\chartdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41417947-BD0F-40B1-AF55-1AB4887631CE}|ChartDemo\\ChartDemo.csproj|solutionrelative:chartdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41417947-BD0F-40B1-AF55-1AB4887631CE}|ChartDemo\\ChartDemo.csproj|c:\\users\\wanad\\onedrive\\desktop\\github\\bie33103_dotnet-programming_sem-i-2024-2025\\lab_3\\chartdemo\\chartdemo\\views\\classsummary\\showchart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41417947-BD0F-40B1-AF55-1AB4887631CE}|ChartDemo\\ChartDemo.csproj|solutionrelative:chartdemo\\views\\classsummary\\showchart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowChart.cshtml",
+              "DocumentMoniker": "C:\\Users\\wanad\\OneDrive\\Desktop\\GitHub\\BIE33103_DOTNET-Programming_SEM-I-2024-2025\\LAB_3\\ChartDemo\\ChartDemo\\Views\\ClassSummary\\ShowChart.cshtml",
+              "RelativeDocumentMoniker": "ChartDemo\\Views\\ClassSummary\\ShowChart.cshtml",
+              "ToolTip": "C:\\Users\\wanad\\OneDrive\\Desktop\\GitHub\\BIE33103_DOTNET-Programming_SEM-I-2024-2025\\LAB_3\\ChartDemo\\ChartDemo\\Views\\ClassSummary\\ShowChart.cshtml",
+              "RelativeToolTip": "ChartDemo\\Views\\ClassSummary\\ShowChart.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T16:49:18.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\wanad\\OneDrive\\Desktop\\GitHub\\BIE33103_DOTNET-Programming_SEM-I-2024-2025\\LAB_3\\ChartDemo\\ChartDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ChartDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\wanad\\OneDrive\\Desktop\\GitHub\\BIE33103_DOTNET-Programming_SEM-I-2024-2025\\LAB_3\\ChartDemo\\ChartDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ChartDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAowGEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T16:42:41.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

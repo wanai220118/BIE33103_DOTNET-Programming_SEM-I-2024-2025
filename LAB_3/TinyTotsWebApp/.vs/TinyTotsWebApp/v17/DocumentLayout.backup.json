@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wanad\\source\\repos\\TinyTotsWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B80A59D9-4207-4608-9FA1-5C2FC3DD6128}|TinyTotsWebApp\\TinyTotsWebApp.csproj|c:\\users\\wanad\\source\\repos\\tinytotswebapp\\tinytotswebapp\\registrationlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B80A59D9-4207-4608-9FA1-5C2FC3DD6128}|TinyTotsWebApp\\TinyTotsWebApp.csproj|solutionrelative:tinytotswebapp\\registrationlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80A59D9-4207-4608-9FA1-5C2FC3DD6128}|TinyTotsWebApp\\TinyTotsWebApp.csproj|c:\\users\\wanad\\source\\repos\\tinytotswebapp\\tinytotswebapp\\editregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B80A59D9-4207-4608-9FA1-5C2FC3DD6128}|TinyTotsWebApp\\TinyTotsWebApp.csproj|solutionrelative:tinytotswebapp\\editregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80A59D9-4207-4608-9FA1-5C2FC3DD6128}|TinyTotsWebApp\\TinyTotsWebApp.csproj|C:\\Users\\wanad\\source\\repos\\TinyTotsWebApp\\tinytotswebapp\\registerchild.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B80A59D9-4207-4608-9FA1-5C2FC3DD6128}|TinyTotsWebApp\\TinyTotsWebApp.csproj|solutionrelative:tinytotswebapp\\registerchild.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterChild.aspx",
+              "DocumentMoniker": "C:\\Users\\wanad\\source\\repos\\TinyTotsWebApp\\TinyTotsWebApp\\RegisterChild.aspx",
+              "RelativeDocumentMoniker": "TinyTotsWebApp\\RegisterChild.aspx",
+              "ToolTip": "C:\\Users\\wanad\\source\\repos\\TinyTotsWebApp\\TinyTotsWebApp\\RegisterChild.aspx",
+              "RelativeToolTip": "TinyTotsWebApp\\RegisterChild.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-03T23:14:47.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditRegistration.aspx",
+              "DocumentMoniker": "C:\\Users\\wanad\\source\\repos\\TinyTotsWebApp\\TinyTotsWebApp\\EditRegistration.aspx",
+              "RelativeDocumentMoniker": "TinyTotsWebApp\\EditRegistration.aspx",
+              "ToolTip": "C:\\Users\\wanad\\source\\repos\\TinyTotsWebApp\\TinyTotsWebApp\\EditRegistration.aspx",
+              "RelativeToolTip": "TinyTotsWebApp\\EditRegistration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-04T10:32:05.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationList.aspx",
+              "DocumentMoniker": "C:\\Users\\wanad\\source\\repos\\TinyTotsWebApp\\TinyTotsWebApp\\RegistrationList.aspx",
+              "RelativeDocumentMoniker": "TinyTotsWebApp\\RegistrationList.aspx",
+              "ToolTip": "C:\\Users\\wanad\\source\\repos\\TinyTotsWebApp\\TinyTotsWebApp\\RegistrationList.aspx",
+              "RelativeToolTip": "TinyTotsWebApp\\RegistrationList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-04T10:14:33.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

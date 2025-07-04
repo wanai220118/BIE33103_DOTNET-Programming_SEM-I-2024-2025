@@ -1,0 +1,135 @@
+﻿@{
+    ViewData["Title"] = "Class Summary";
+}
+
+<style>
+    body {
+        background-color: #f5efeb;
+    }
+
+    h2 {
+        color: #2f4156;
+        margin-bottom: 20px;
+        font-weight: bold;
+    }
+
+    .table {
+        background-color: #ffffff;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    .table th {
+        background-color: #567c8d;
+        color: white;
+        text-align: center;
+    }
+
+    .table td {
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    .chart-container {
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+        max-width: 320px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    canvas {
+        width: 100% !important;
+        height: auto !important;
+        background-color: #ffffff;
+        padding: 10px;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+</style>
+
+<h2>@ViewData["Title"]</h2>
+
+<!-- Table displaying programme data -->
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Programme</th>
+            <th>Student Count</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var programme in Model)
+        {
+            <tr>
+                <td>@programme.Name</td>
+                <td>@programme.StudentCount</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="chart-container">
+    <canvas id="pieChart"></canvas>
+</div>
+
+<!-- jQuery Library for handling DOM manipulation and AJAX requests -->
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<!-- Chart.js library for rendering the charts -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script type="text/javascript">
+    $(function () {
+        $.ajax({
+            type: "GET",
+            url: "/ClassSummary/GetProgrammeData",
+            dataType: "json",
+            success: OnSuccessResult,
+            error: OnError
+        });
+
+        function OnSuccessResult(data) {
+            var _chartLabels = data.map(item => item.name);
+            var _chartData = data.map(item => item.studentCount);
+
+            const ctx = document.getElementById("pieChart");
+            if (!ctx) {
+                console.error("Chart element not found.");
+                return;
+            }
+
+            new Chart(ctx, {
+                type: "pie",
+                data: {
+                    labels: _chartLabels,
+                    datasets: [{
+                        data: _chartData,
+                        backgroundColor: ["#2f4156", "#567c8d", "#c8d9e6", "#f5efeb"],
+                        borderColor: "#ffffff",
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    plugins: {
+                        legend: {
+                            display: true,
+                            position: "top",
+                            labels: {
+                                color: "#2f4156",
+                                font: {
+                                    weight: 'bold'
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        function OnError(err) {
+            console.error("Error: ", err);
+        }
+    });
+</script>
